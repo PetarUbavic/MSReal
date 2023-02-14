@@ -16,6 +16,7 @@
 
 int main ()
 {
+	FILE *fs;
 	FILE *fl;
 	FILE *fb;
 	char *str;
