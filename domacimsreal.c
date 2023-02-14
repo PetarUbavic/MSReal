@@ -69,7 +69,7 @@ int main (/*int argc, char** argv*/)
 			sval2 = str[3] - 48;
 			sval3 = str[4] - 48;
 			sval4 = str[5] - 48;
-			free(str3);
+			free(str);
 			
 			if(sval3 == 0)
 				if(sval4 == 0)
